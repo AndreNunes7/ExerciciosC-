@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|c:\\users\\andre\\desktop\\c#\\projetos\\fluxocaixa\\fluxocaixa\\classes\\classesdofluxodecaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\classes\\classesdofluxodecaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|c:\\users\\andre\\desktop\\c#\\projetos\\fluxocaixa\\fluxocaixa\\fluxocaixa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\fluxocaixa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|c:\\users\\andre\\desktop\\c#\\projetos\\fluxocaixa\\fluxocaixa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|c:\\users\\andre\\desktop\\c#\\projetos\\fluxocaixa\\fluxocaixa\\frmfluxocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\frmfluxocaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|c:\\users\\andre\\desktop\\c#\\projetos\\fluxocaixa\\fluxocaixa\\frmfluxocaixa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5374AF4-FED4-4A2B-8700-D19386B830C9}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\frmfluxocaixa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FluxoCaixa",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\FluxoCaixa.csproj",
+              "RelativeDocumentMoniker": "FluxoCaixa\\FluxoCaixa.csproj",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\FluxoCaixa.csproj",
+              "RelativeToolTip": "FluxoCaixa\\FluxoCaixa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T03:08:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmFluxoCaixa.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\frmFluxoCaixa.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\frmFluxoCaixa.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\frmFluxoCaixa.cs",
+              "RelativeToolTip": "FluxoCaixa\\frmFluxoCaixa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:07:41.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmFluxoCaixa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\frmFluxoCaixa.Designer.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\frmFluxoCaixa.Designer.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\frmFluxoCaixa.Designer.cs",
+              "RelativeToolTip": "FluxoCaixa\\frmFluxoCaixa.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:07:41.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassesDoFluxoDeCaixa.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\Classes\\ClassesDoFluxoDeCaixa.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\Classes\\ClassesDoFluxoDeCaixa.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\Classes\\ClassesDoFluxoDeCaixa.cs",
+              "RelativeToolTip": "FluxoCaixa\\Classes\\ClassesDoFluxoDeCaixa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:07:41.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\Program.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\C#\\Projetos\\FluxoCaixa\\FluxoCaixa\\Program.cs",
+              "RelativeToolTip": "FluxoCaixa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:07:41.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

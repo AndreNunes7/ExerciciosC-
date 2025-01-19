@@ -1,0 +1,15 @@
+D:\ProjetosC#\SomaPares\SomaPares\bin\Debug\net6.0\SomaPares.exe
+D:\ProjetosC#\SomaPares\SomaPares\bin\Debug\net6.0\SomaPares.deps.json
+D:\ProjetosC#\SomaPares\SomaPares\bin\Debug\net6.0\SomaPares.runtimeconfig.json
+D:\ProjetosC#\SomaPares\SomaPares\bin\Debug\net6.0\SomaPares.dll
+D:\ProjetosC#\SomaPares\SomaPares\bin\Debug\net6.0\SomaPares.pdb
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\SomaPares.csproj.AssemblyReference.cache
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\SomaPares.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\SomaPares.AssemblyInfoInputs.cache
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\SomaPares.AssemblyInfo.cs
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\SomaPares.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\SomaPares.dll
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\refint\SomaPares.dll
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\SomaPares.pdb
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\SomaPares.genruntimeconfig.cache
+D:\ProjetosC#\SomaPares\SomaPares\obj\Debug\net6.0\ref\SomaPares.dll

@@ -1,0 +1,16 @@
+G:\AulaC#\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraParcelas.exe
+G:\AulaC#\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraParcelas.deps.json
+G:\AulaC#\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraParcelas.runtimeconfig.json
+G:\AulaC#\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraParcelas.dll
+G:\AulaC#\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraParcelas.pdb
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmCalculadora.resources
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraParcelas.csproj.GenerateResource.cache
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraParcelas.GeneratedMSBuildEditorConfig.editorconfig
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraParcelas.AssemblyInfoInputs.cache
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraParcelas.AssemblyInfo.cs
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraParcelas.csproj.CoreCompileInputs.cache
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraParcelas.dll
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\CalculadoraParcelas.dll
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraParcelas.pdb
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraParcelas.genruntimeconfig.cache
+G:\AulaC#\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\CalculadoraParcelas.dll

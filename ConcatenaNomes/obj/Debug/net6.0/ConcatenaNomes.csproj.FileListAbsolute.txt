@@ -1,0 +1,15 @@
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\ConcatenaNomes.csproj.AssemblyReference.cache
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\ConcatenaNomes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\ConcatenaNomes.AssemblyInfoInputs.cache
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\ConcatenaNomes.AssemblyInfo.cs
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\ConcatenaNomes.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\ConcatenaNomes\bin\Debug\net6.0\ConcatenaNomes.exe
+D:\ProjetosC#\ConcatenaNomes\bin\Debug\net6.0\ConcatenaNomes.deps.json
+D:\ProjetosC#\ConcatenaNomes\bin\Debug\net6.0\ConcatenaNomes.runtimeconfig.json
+D:\ProjetosC#\ConcatenaNomes\bin\Debug\net6.0\ConcatenaNomes.dll
+D:\ProjetosC#\ConcatenaNomes\bin\Debug\net6.0\ConcatenaNomes.pdb
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\ConcatenaNomes.dll
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\refint\ConcatenaNomes.dll
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\ConcatenaNomes.pdb
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\ConcatenaNomes.genruntimeconfig.cache
+D:\ProjetosC#\ConcatenaNomes\obj\Debug\net6.0\ref\ConcatenaNomes.dll

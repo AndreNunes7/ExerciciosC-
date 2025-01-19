@@ -1,0 +1,15 @@
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\bin\Debug\net6.0\SomaImparesNaoMultiplosDe5.exe
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\bin\Debug\net6.0\SomaImparesNaoMultiplosDe5.deps.json
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\bin\Debug\net6.0\SomaImparesNaoMultiplosDe5.runtimeconfig.json
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\bin\Debug\net6.0\SomaImparesNaoMultiplosDe5.dll
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\bin\Debug\net6.0\SomaImparesNaoMultiplosDe5.pdb
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\SomaImparesNaoMultiplosDe5.csproj.AssemblyReference.cache
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\SomaImparesNaoMultiplosDe5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\SomaImparesNaoMultiplosDe5.AssemblyInfoInputs.cache
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\SomaImparesNaoMultiplosDe5.AssemblyInfo.cs
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\SomaImparesNaoMultiplosDe5.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\SomaImparesNaoMultiplosDe5.dll
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\refint\SomaImparesNaoMultiplosDe5.dll
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\SomaImparesNaoMultiplosDe5.pdb
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\SomaImparesNaoMultiplosDe5.genruntimeconfig.cache
+D:\ProjetosC#\SomaImparesNaoMultiplosDe5\obj\Debug\net6.0\ref\SomaImparesNaoMultiplosDe5.dll

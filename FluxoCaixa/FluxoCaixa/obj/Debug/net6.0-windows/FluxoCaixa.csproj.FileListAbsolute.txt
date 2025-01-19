@@ -1,0 +1,17 @@
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\FluxoCaixa.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\LivroCaixa.frmFluxoCaixa.resources
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\FluxoCaixa.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\FluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\FluxoCaixa.AssemblyInfoInputs.cache
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\FluxoCaixa.AssemblyInfo.cs
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\FluxoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\bin\Debug\net6.0-windows\FluxoCaixa.exe
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\bin\Debug\net6.0-windows\FluxoCaixa.deps.json
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\bin\Debug\net6.0-windows\FluxoCaixa.runtimeconfig.json
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\bin\Debug\net6.0-windows\FluxoCaixa.dll
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\bin\Debug\net6.0-windows\ref\FluxoCaixa.dll
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\bin\Debug\net6.0-windows\FluxoCaixa.pdb
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\FluxoCaixa.dll
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\ref\FluxoCaixa.dll
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\FluxoCaixa.pdb
+C:\Users\unisanta\source\repos\FluxoCaixa\FluxoCaixa\obj\Debug\net6.0-windows\FluxoCaixa.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\bin\Debug\net6.0\ExRetangulo.exe
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\bin\Debug\net6.0\ExRetangulo.deps.json
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\bin\Debug\net6.0\ExRetangulo.runtimeconfig.json
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\bin\Debug\net6.0\ExRetangulo.dll
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\bin\Debug\net6.0\ExRetangulo.pdb
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\obj\Debug\net6.0\ExRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\obj\Debug\net6.0\ExRetangulo.AssemblyInfoInputs.cache
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\obj\Debug\net6.0\ExRetangulo.AssemblyInfo.cs
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\obj\Debug\net6.0\ExRetangulo.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\obj\Debug\net6.0\ExRetangulo.dll
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\obj\Debug\net6.0\refint\ExRetangulo.dll
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\obj\Debug\net6.0\ExRetangulo.pdb
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\obj\Debug\net6.0\ExRetangulo.genruntimeconfig.cache
+D:\ProjetosC#\CursoC#\ExerciciosC#\Retangulo\ExRetangulo\ExRetangulo\obj\Debug\net6.0\ref\ExRetangulo.dll

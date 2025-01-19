@@ -1,0 +1,14 @@
+P:\Rangel\Engenharia2023\prjBase\prjBase\bin\prjBase.dll.config
+P:\Rangel\Engenharia2023\prjBase\prjBase\bin\prjBase.dll
+P:\Rangel\Engenharia2023\prjBase\prjBase\bin\prjBase.pdb
+P:\Rangel\Engenharia2023\prjBase\prjBase\obj\Debug\prjBase.csproj.AssemblyReference.cache
+P:\Rangel\Engenharia2023\prjBase\prjBase\obj\Debug\prjBase.csproj.CoreCompileInputs.cache
+P:\Rangel\Engenharia2023\prjBase\prjBase\obj\Debug\prjBase.dll
+P:\Rangel\Engenharia2023\prjBase\prjBase\obj\Debug\prjBase.pdb
+P:\Rangel\Engenharia2023\prjBase (2)\prjBase\prjBase\bin\prjBase.dll.config
+P:\Rangel\Engenharia2023\prjBase (2)\prjBase\prjBase\bin\prjBase.dll
+P:\Rangel\Engenharia2023\prjBase (2)\prjBase\prjBase\bin\prjBase.pdb
+P:\Rangel\Engenharia2023\prjBase (2)\prjBase\prjBase\obj\Debug\prjBase.csproj.AssemblyReference.cache
+P:\Rangel\Engenharia2023\prjBase (2)\prjBase\prjBase\obj\Debug\prjBase.csproj.CoreCompileInputs.cache
+P:\Rangel\Engenharia2023\prjBase (2)\prjBase\prjBase\obj\Debug\prjBase.dll
+P:\Rangel\Engenharia2023\prjBase (2)\prjBase\prjBase\obj\Debug\prjBase.pdb

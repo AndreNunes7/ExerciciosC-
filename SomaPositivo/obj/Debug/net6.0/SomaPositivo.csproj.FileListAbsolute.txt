@@ -1,0 +1,15 @@
+D:\ProjetosC#\SomaPositivo\bin\Debug\net6.0\SomaPositivo.exe
+D:\ProjetosC#\SomaPositivo\bin\Debug\net6.0\SomaPositivo.deps.json
+D:\ProjetosC#\SomaPositivo\bin\Debug\net6.0\SomaPositivo.runtimeconfig.json
+D:\ProjetosC#\SomaPositivo\bin\Debug\net6.0\SomaPositivo.dll
+D:\ProjetosC#\SomaPositivo\bin\Debug\net6.0\SomaPositivo.pdb
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\SomaPositivo.csproj.AssemblyReference.cache
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\SomaPositivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\SomaPositivo.AssemblyInfoInputs.cache
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\SomaPositivo.AssemblyInfo.cs
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\SomaPositivo.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\SomaPositivo.dll
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\refint\SomaPositivo.dll
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\SomaPositivo.pdb
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\SomaPositivo.genruntimeconfig.cache
+D:\ProjetosC#\SomaPositivo\obj\Debug\net6.0\ref\SomaPositivo.dll

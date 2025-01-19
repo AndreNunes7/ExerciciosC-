@@ -1,0 +1,14 @@
+D:\ProjetosC#\PooCurso\Aula01\Aula01\bin\Debug\net6.0\Aula01.exe
+D:\ProjetosC#\PooCurso\Aula01\Aula01\bin\Debug\net6.0\Aula01.deps.json
+D:\ProjetosC#\PooCurso\Aula01\Aula01\bin\Debug\net6.0\Aula01.runtimeconfig.json
+D:\ProjetosC#\PooCurso\Aula01\Aula01\bin\Debug\net6.0\Aula01.dll
+D:\ProjetosC#\PooCurso\Aula01\Aula01\bin\Debug\net6.0\Aula01.pdb
+D:\ProjetosC#\PooCurso\Aula01\Aula01\obj\Debug\net6.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\PooCurso\Aula01\Aula01\obj\Debug\net6.0\Aula01.AssemblyInfoInputs.cache
+D:\ProjetosC#\PooCurso\Aula01\Aula01\obj\Debug\net6.0\Aula01.AssemblyInfo.cs
+D:\ProjetosC#\PooCurso\Aula01\Aula01\obj\Debug\net6.0\Aula01.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\PooCurso\Aula01\Aula01\obj\Debug\net6.0\Aula01.dll
+D:\ProjetosC#\PooCurso\Aula01\Aula01\obj\Debug\net6.0\refint\Aula01.dll
+D:\ProjetosC#\PooCurso\Aula01\Aula01\obj\Debug\net6.0\Aula01.pdb
+D:\ProjetosC#\PooCurso\Aula01\Aula01\obj\Debug\net6.0\Aula01.genruntimeconfig.cache
+D:\ProjetosC#\PooCurso\Aula01\Aula01\obj\Debug\net6.0\ref\Aula01.dll

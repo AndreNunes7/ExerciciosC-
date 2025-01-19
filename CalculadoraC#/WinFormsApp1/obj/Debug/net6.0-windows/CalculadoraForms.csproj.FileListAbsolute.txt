@@ -1,0 +1,17 @@
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraForms.exe
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraForms.deps.json
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraForms.runtimeconfig.json
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraForms.dll
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\bin\Debug\net6.0-windows\CalculadoraForms.pdb
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmCalculadora.resources
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraForms.Properties.Resources.resources
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraForms.csproj.GenerateResource.cache
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraForms.AssemblyInfoInputs.cache
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraForms.AssemblyInfo.cs
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraForms.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraForms.dll
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\refint\CalculadoraForms.dll
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraForms.pdb
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\CalculadoraForms.genruntimeconfig.cache
+D:\ProjetosC#\CalculadoraC#\WinFormsApp1\obj\Debug\net6.0-windows\ref\CalculadoraForms.dll

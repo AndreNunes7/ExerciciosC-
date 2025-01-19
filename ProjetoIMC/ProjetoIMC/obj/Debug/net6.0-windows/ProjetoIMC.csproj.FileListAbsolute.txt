@@ -1,0 +1,17 @@
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0-windows\ProjetoIMC.exe
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0-windows\ProjetoIMC.deps.json
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0-windows\ProjetoIMC.runtimeconfig.json
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0-windows\ProjetoIMC.dll
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0-windows\ref\ProjetoIMC.dll
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\bin\Debug\net6.0-windows\ProjetoIMC.pdb
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.csproj.AssemblyReference.cache
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.FormIMC.resources
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.csproj.GenerateResource.cache
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.GeneratedMSBuildEditorConfig.editorconfig
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.AssemblyInfoInputs.cache
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.AssemblyInfo.cs
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.csproj.CoreCompileInputs.cache
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.dll
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ref\ProjetoIMC.dll
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.pdb
+P:\Rangel\ADS C#\Projetos\ProjetoIMC3DeskTop\ProjetoIMC\ProjetoIMC\obj\Debug\net6.0-windows\ProjetoIMC.genruntimeconfig.cache

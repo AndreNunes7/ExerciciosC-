@@ -1,0 +1,15 @@
+D:\ProjetosC#\Quadrado\bin\Debug\net6.0\Quadrado.exe
+D:\ProjetosC#\Quadrado\bin\Debug\net6.0\Quadrado.deps.json
+D:\ProjetosC#\Quadrado\bin\Debug\net6.0\Quadrado.runtimeconfig.json
+D:\ProjetosC#\Quadrado\bin\Debug\net6.0\Quadrado.dll
+D:\ProjetosC#\Quadrado\bin\Debug\net6.0\Quadrado.pdb
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\Quadrado.csproj.AssemblyReference.cache
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\Quadrado.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\Quadrado.AssemblyInfoInputs.cache
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\Quadrado.AssemblyInfo.cs
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\Quadrado.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\Quadrado.dll
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\refint\Quadrado.dll
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\Quadrado.pdb
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\Quadrado.genruntimeconfig.cache
+D:\ProjetosC#\Quadrado\obj\Debug\net6.0\ref\Quadrado.dll

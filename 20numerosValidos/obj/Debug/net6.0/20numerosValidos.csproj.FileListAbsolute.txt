@@ -1,0 +1,15 @@
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\20numerosValidos.csproj.AssemblyReference.cache
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\20numerosValidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\20numerosValidos.AssemblyInfoInputs.cache
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\20numerosValidos.AssemblyInfo.cs
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\20numerosValidos.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\20numerosValidos\bin\Debug\net6.0\20numerosValidos.exe
+D:\ProjetosC#\20numerosValidos\bin\Debug\net6.0\20numerosValidos.deps.json
+D:\ProjetosC#\20numerosValidos\bin\Debug\net6.0\20numerosValidos.runtimeconfig.json
+D:\ProjetosC#\20numerosValidos\bin\Debug\net6.0\20numerosValidos.dll
+D:\ProjetosC#\20numerosValidos\bin\Debug\net6.0\20numerosValidos.pdb
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\20numerosValidos.dll
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\refint\20numerosValidos.dll
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\20numerosValidos.pdb
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\20numerosValidos.genruntimeconfig.cache
+D:\ProjetosC#\20numerosValidos\obj\Debug\net6.0\ref\20numerosValidos.dll

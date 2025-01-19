@@ -1,0 +1,15 @@
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\bin\Debug\net6.0\prjDiversos.exe
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\bin\Debug\net6.0\prjDiversos.deps.json
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\bin\Debug\net6.0\prjDiversos.runtimeconfig.json
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\bin\Debug\net6.0\prjDiversos.dll
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\bin\Debug\net6.0\ref\prjDiversos.dll
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\bin\Debug\net6.0\prjDiversos.pdb
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\obj\Debug\net6.0\prjDiversos.csproj.AssemblyReference.cache
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\obj\Debug\net6.0\prjDiversos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\obj\Debug\net6.0\prjDiversos.AssemblyInfoInputs.cache
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\obj\Debug\net6.0\prjDiversos.AssemblyInfo.cs
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\obj\Debug\net6.0\prjDiversos.csproj.CoreCompileInputs.cache
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\obj\Debug\net6.0\prjDiversos.dll
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\obj\Debug\net6.0\ref\prjDiversos.dll
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\obj\Debug\net6.0\prjDiversos.pdb
+G:\Rangel\ADS C#\Diversos\prjDiversos\prjDiversos\obj\Debug\net6.0\prjDiversos.genruntimeconfig.cache

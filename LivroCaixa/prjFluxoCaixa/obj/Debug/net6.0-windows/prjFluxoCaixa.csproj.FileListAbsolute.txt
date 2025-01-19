@@ -1,0 +1,90 @@
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.AssemblyReference.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.AssemblyReference.cache
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+D:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.AssemblyReference.cache
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\refint\prjFluxoCaixa.dll
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+E:\Faculdade\Programação Orientada a Objetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.CadResponsavel.resources
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.AssemblyReference.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa (5)\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.cadTipoLancamento.resources
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.CadResponsavel.resources
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.cadTipoLancamento.resources
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\refint\prjFluxoCaixa.dll
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+C:\Users\andre\Downloads\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.Properties.Resources.resources

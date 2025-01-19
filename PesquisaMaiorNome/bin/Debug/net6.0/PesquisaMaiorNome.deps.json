@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PesquisaMaiorNome/1.0.0": {
+        "runtime": {
+          "PesquisaMaiorNome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PesquisaMaiorNome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

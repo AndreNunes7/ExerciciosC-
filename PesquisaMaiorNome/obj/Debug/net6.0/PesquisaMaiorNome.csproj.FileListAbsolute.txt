@@ -1,0 +1,15 @@
+D:\ProjetosC#\PesquisaMaiorNome\bin\Debug\net6.0\PesquisaMaiorNome.exe
+D:\ProjetosC#\PesquisaMaiorNome\bin\Debug\net6.0\PesquisaMaiorNome.deps.json
+D:\ProjetosC#\PesquisaMaiorNome\bin\Debug\net6.0\PesquisaMaiorNome.runtimeconfig.json
+D:\ProjetosC#\PesquisaMaiorNome\bin\Debug\net6.0\PesquisaMaiorNome.dll
+D:\ProjetosC#\PesquisaMaiorNome\bin\Debug\net6.0\PesquisaMaiorNome.pdb
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\PesquisaMaiorNome.csproj.AssemblyReference.cache
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\PesquisaMaiorNome.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\PesquisaMaiorNome.AssemblyInfoInputs.cache
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\PesquisaMaiorNome.AssemblyInfo.cs
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\PesquisaMaiorNome.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\PesquisaMaiorNome.dll
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\refint\PesquisaMaiorNome.dll
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\PesquisaMaiorNome.pdb
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\PesquisaMaiorNome.genruntimeconfig.cache
+D:\ProjetosC#\PesquisaMaiorNome\obj\Debug\net6.0\ref\PesquisaMaiorNome.dll

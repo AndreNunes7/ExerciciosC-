@@ -1,0 +1,14 @@
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\bin\Debug\net6.0\ex01.exe
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\bin\Debug\net6.0\ex01.deps.json
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\bin\Debug\net6.0\ex01.dll
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\bin\Debug\net6.0\ex01.pdb
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\obj\Debug\net6.0\ex01.dll
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\obj\Debug\net6.0\refint\ex01.dll
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\obj\Debug\net6.0\ex01.pdb
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+D:\ProjetosC#\CursoC#\ExerciciosC#\ExAumentoSalarioFunc\ex01\ex01\obj\Debug\net6.0\ref\ex01.dll

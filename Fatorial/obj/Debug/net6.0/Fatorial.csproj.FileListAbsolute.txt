@@ -1,0 +1,15 @@
+D:\ProjetosC#\Fatorial\bin\Debug\net6.0\Fatorial.exe
+D:\ProjetosC#\Fatorial\bin\Debug\net6.0\Fatorial.deps.json
+D:\ProjetosC#\Fatorial\bin\Debug\net6.0\Fatorial.runtimeconfig.json
+D:\ProjetosC#\Fatorial\bin\Debug\net6.0\Fatorial.dll
+D:\ProjetosC#\Fatorial\bin\Debug\net6.0\Fatorial.pdb
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\Fatorial.csproj.AssemblyReference.cache
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfoInputs.cache
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfo.cs
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\Fatorial.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\Fatorial.dll
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\refint\Fatorial.dll
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\Fatorial.pdb
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\Fatorial.genruntimeconfig.cache
+D:\ProjetosC#\Fatorial\obj\Debug\net6.0\ref\Fatorial.dll
